@@ -9,9 +9,9 @@ Actualmente, curso la especialización en **Inteligencia Artificial y Big Data *
 ### 🚀 Tecnologías que uso
 
 #### 🧠 Lenguajes y frameworks
-- **Backend:** PHP · Laravel · Java  
+- **Backend:** PHP · Laravel · Java · Python  
 - **Frontend:** Vue.js · React · JavaScript · HTML5 · CSS3  
-- **Bases de datos:** MySQL · Oracle · Mongo DB
+- **Bases de datos:** MySQL · Oracle · Mongo DB · Cassandra
 - **Entornos:** Nginx · Firebase · AWS  
 - **Estilos:** Tailwind CSS · Bootstrap  
 

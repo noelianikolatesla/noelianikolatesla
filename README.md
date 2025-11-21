@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Noelia Alafarga
 
 💻 **Desarrolladora Fullstack Web** apasionada por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras.  
-Combino backend con **Laravel / PHP / Java** y frontend con **Vue.js / React**, además de tener experiencia con **MySQL / NoSQL**, **Tailwind CSS**, **Bootstrap**, **Firebase** y **Nginx**.  
+Combino backend con **Laravel / PHP / Java / Python** y frontend con **Vue.js / React**, además de tener experiencia con **MySQL / NoSQL**, **Tailwind CSS**, **Bootstrap**, **Firebase** y **Nginx**.  
 Actualmente, curso la especialización en **Inteligencia Artificial y Big Data ** 🤖.
 
 ---
